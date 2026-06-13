@@ -10,7 +10,7 @@ These sleep attacks last for a mere seconds but on the road can cause a huge pro
  How can we help general public like pedestrians, car drivers and late night truck delivery drivers find a way to be safe from micro-sleep attacks so that they can drive safely without the fear of sleeping in the middle of driving and potentially causing a fatal road accident risking their lives and others too.
 
 # Solution 
-The drowsiness detector makes use of different librearies to detect the sleepyness of a driver.<br>
+The drowsiness detector makes use of different librearies to as a result detect the sleepyness of a driver.<br>
 -CV2 : Helps integrate AI into the camera.<br>
 -OS : Lets us load aur datasets into the code.<br>
 -Numpy - Handels the arrays and vectors formed by image dataset.<br>
