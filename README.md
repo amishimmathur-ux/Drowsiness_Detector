@@ -1,9 +1,9 @@
 # Brief
-The Drowsiness Detector is a CV based AI model which detects if the person siting behind the wheel is drowsy or not, and with respect to that, sounds an alarm to prompty wake them up.<br>
+The Drowsiness Detector is a CV based AI model which detects if the person siting behind the wheel is drowsy or not, and with respect to that, sounds an alarm to prompty wake them up.<br><br>
 Sleep is a dynamic process which affects out body in various ways. Lack of sleep is terms as sleep deprivation and can cause severe damages to out body, and rather obviously, it is very harmful for individuals who drive.
-<br>
+<br><br>
 Sleep deprivation, tiredness or fatigue when taking over the person incharge of the wheel can make them have small gusts of sleep called ‘Micro-Sleep Attacks’.
-<br>
+<br><br>
 These sleep attacks last for a mere seconds but on the road can cause a huge problem in just that short instance in which it occurs.
 
 # Problem
