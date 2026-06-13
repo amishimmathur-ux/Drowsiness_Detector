@@ -11,8 +11,8 @@ These sleep attacks last for a mere seconds but on the road can cause a huge pro
 
 # Solution 
 The drowsiness detector makes use of different librearies to detect the sleepyness of a driver.<br>
--CV2 : Helps integrate AI into the camera.
--OS : Lets us load aur datasets into the code.
--Numpy - Handels the arrays and vectors formed by image dataset.
--Pygame - Triggers the alarm sound whenever the driver apears sleepy.
--Sklearn - Essential for making the actual prediction model.
+-CV2 : Helps integrate AI into the camera.<br>
+-OS : Lets us load aur datasets into the code.<br>
+-Numpy - Handels the arrays and vectors formed by image dataset.<br>
+-Pygame - Triggers the alarm sound whenever the driver apears sleepy.<br>
+-Sklearn - Essential for making the actual prediction model.<br>
